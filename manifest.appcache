@@ -1,0 +1,27 @@
+CACHE MANIFEST
+# 2015-0001
+
+# Explicitly cached entries
+index.html
+index-offline.html
+css/themes/default/jquery.mobile-1.2.0.min.css
+css/themes/default/images/ajax-loader.gif
+css/themes/default/images/icons-36-white.png
+css/custom/style.css
+js/jquery-1.8.2.min.js
+js/jquery.mobile-1.2.0.min.js
+js/app.min.js
+img/startup.jpg
+img/startup2x.jpg
+img/Icon.png
+img/Icon@2x.png
+http://ct6b.addthis.com/static/r07/widget011_32x32_top.gif
+
+# network resources
+NETWORK:
+*
+
+
+# offline.html will be displayed if the user is offline
+FALLBACK:
+index-offline.html

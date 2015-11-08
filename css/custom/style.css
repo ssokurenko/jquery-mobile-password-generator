@@ -1,0 +1,61 @@
+.ui-content {
+	max-width: 320px;
+	margin: 0 auto;
+}
+input.ui-input-text {
+	font-size: 2em !important;
+	text-align: center;
+}
+
+.ui-btn-text {
+	font-size: 1.3em;
+}
+
+.generate-button .ui-btn-text {
+	font-size: 1.8em;
+}
+
+.ui-title {
+	text-overflow: clip !important;
+	margin: .6em 10% .8em !important;
+}
+
+input.ui-slider-input {
+	font-size: 1.2em !important;
+}
+
+input.ui-input-text, .pass-type, .generate-button .ui-btn-text {
+	color: #3C99D0;
+}
+fieldset.case-options {
+	text-align: center !important;
+}
+
+fieldset.case-options span {
+	font-size: 1em;
+}
+
+fieldset.secondary-buttons {
+	text-align: center !important;
+}
+
+.ui-controlgroup-controls {
+    width:100% !important;
+    text-align: center !important;
+    
+}
+
+.ui-radio {
+    width:33% !important;
+} 
+
+.social-sharing {
+	padding: 20px;
+}
+
+.copyright {
+	color: gray;
+	display: block;
+	margin-left: 10px;
+	width: 100%;
+}
